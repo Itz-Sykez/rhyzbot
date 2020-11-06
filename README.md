@@ -1,5 +1,5 @@
 # RhyzPlayz
-BOT WHATSAPP HP Aris187 ID
+Membuat Bot Whatsapp Via Termux
 
 ### Alat dan Bahan
 Siapin alat dan bahannya.
