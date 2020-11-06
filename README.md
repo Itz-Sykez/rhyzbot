@@ -1,4 +1,4 @@
-# A187 ID
+# RhyzPlayz
 BOT WHATSAPP HP Aris187 ID
 
 ### Alat dan Bahan
@@ -12,7 +12,7 @@ Siapin alat dan bahannya.
 > kopi
 ```
 
-### Cara Installnya
+### How To Install
 Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
@@ -45,7 +45,7 @@ Sebelum lu jalanin sc nya install dulu lah.
 |       ✅       | Info                             |
 |       ✅       | Donate                           |
 
-## Special Thanks to
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+
+
 
 
