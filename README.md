@@ -17,8 +17,8 @@ Sebelum lu jalanin sc nya install dulu lah.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/aris187id/whatsapp-bot
-> cd whatsapp-bot
+> git clone https://github.com/Rhyz-Playz/rhyzbot
+> cd rhyzbot
 > bash install.sh
 > node index.js
 > Tinggal scan qr dah
